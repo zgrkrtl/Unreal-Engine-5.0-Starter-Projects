@@ -1,0 +1,37 @@
+{
+  "folders": [
+    {
+      "name": "CryptRaider",
+      "path": "."
+    },
+    {
+      "name": "UE5",
+      "path": "C:\\Program Files (x86)\\Unreal Engine\\UE_5.0"
+    }
+  ],
+  "settings": {
+    "typescript.tsc.autoDetect": "off",
+    "files.associations": {
+      "*.ipp": "cpp",
+      "__bit_reference": "cpp",
+      "bitset": "cpp",
+      "chrono": "cpp",
+      "hash_map": "cpp",
+      "map": "cpp",
+      "set": "cpp",
+      "unordered_map": "cpp",
+      "unordered_set": "cpp",
+      "algorithm": "cpp",
+      "iterator": "cpp",
+      "xhash": "cpp",
+      "xmemory": "cpp",
+      "xtree": "cpp",
+      "xutility": "cpp",
+      "__config": "cpp",
+      "__nullptr": "cpp"
+    }
+  },
+  "extensions": {
+    "recommendations": ["ms-vscode.cpptools", "ms-dotnettools.csharp"]
+  }
+}
